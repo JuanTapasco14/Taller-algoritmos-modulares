@@ -1,0 +1,14 @@
+C:\LDP\AlgoritmosModulares\bin\Debug\net10.0\AlgoritmosModulares.exe
+C:\LDP\AlgoritmosModulares\bin\Debug\net10.0\AlgoritmosModulares.deps.json
+C:\LDP\AlgoritmosModulares\bin\Debug\net10.0\AlgoritmosModulares.runtimeconfig.json
+C:\LDP\AlgoritmosModulares\bin\Debug\net10.0\AlgoritmosModulares.dll
+C:\LDP\AlgoritmosModulares\bin\Debug\net10.0\AlgoritmosModulares.pdb
+C:\LDP\AlgoritmosModulares\obj\Debug\net10.0\AlgoritmosModulares.GeneratedMSBuildEditorConfig.editorconfig
+C:\LDP\AlgoritmosModulares\obj\Debug\net10.0\AlgoritmosModulares.AssemblyInfoInputs.cache
+C:\LDP\AlgoritmosModulares\obj\Debug\net10.0\AlgoritmosModulares.AssemblyInfo.cs
+C:\LDP\AlgoritmosModulares\obj\Debug\net10.0\AlgoritmosModulares.csproj.CoreCompileInputs.cache
+C:\LDP\AlgoritmosModulares\obj\Debug\net10.0\AlgoritmosModulares.dll
+C:\LDP\AlgoritmosModulares\obj\Debug\net10.0\refint\AlgoritmosModulares.dll
+C:\LDP\AlgoritmosModulares\obj\Debug\net10.0\AlgoritmosModulares.pdb
+C:\LDP\AlgoritmosModulares\obj\Debug\net10.0\AlgoritmosModulares.genruntimeconfig.cache
+C:\LDP\AlgoritmosModulares\obj\Debug\net10.0\ref\AlgoritmosModulares.dll
